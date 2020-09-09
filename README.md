@@ -17,11 +17,13 @@ I'm an italian 17 years old backend developer and I'm passionate about programmi
 - PyCharm Professional
 - CLion
 - ItelliJ IDEA Ultimate
+- Visual Studio Code
 
 ## Operating Systems
 
 - Debian/Raspbian 9/10
 - Manjaro
+- Mac OS X >= 10.10
 
 ## Desktop Environments
 
@@ -45,13 +47,18 @@ I'm an italian 17 years old backend developer and I'm passionate about programmi
 - [Intellivoid Technologies](https://intellivoid.net) (Software Dev)
 - [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author)
 - [giambio](https:github.com/nocturn9x/giambio) (Author)
-- [MasterPoll](https://telegram.me) (Database Admin)
+- [JAPL](https://github.com/nocturn9x/JAPL)
+
+# Projects I've worked for
+
+- [MasterPoll](https://telegram.me/MasterPoll) (Database Admin)
+- FiveShots (A VPS/Webhosting provider, now out of business)
 
 # Contacts
 
-If you have a job for me, or want to collaborate in one of my projects, you can contact me the following way:
+If you have a job for me, or want to collaborate in one of my projects, you can contact me the following ways:
 
-- [Telegram (me)](https://t.me/nocturn9x) or [My Bot](https://telegram.me/GiambyBot)
+- [Telegram (me)](https://t.me/nocturn9x) or [My Bot (better)](https://telegram.me/GiambyBot)
 - [Instagram](https://instagram.com/_mattiagiamby_)
 - [GitHub](https://github.com/nocturn9x)
 - [E-mail](mailto:nocturn9x@intellivoid.net)
