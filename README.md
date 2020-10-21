@@ -47,7 +47,7 @@ I'm an italian 17 years old backend developer and I'm passionate about programmi
 - [Intellivoid Technologies](https://intellivoid.net) (Software Dev)
 - [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author)
 - [giambio](https:github.com/nocturn9x/giambio) (Author)
-- [JAPL](https://github.com/nocturn9x/JAPL)
+- [JAPL](https://github.com/japl-lang/japl)
 
 # Projects I've worked for
 
