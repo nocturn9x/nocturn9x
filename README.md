@@ -2,7 +2,7 @@
 
 Hi! I'm Mattia Giambirtone, Matt for short, if you're reading this you may want to know more about me.
 
-I'm an italian 17 years old backend developer and I'm passionate about programming, cryptography and cyber security.
+I'm an italian 18 years old backend developer and I'm passionate about programming, cryptography and cyber security.
 
 
 # Things I love
