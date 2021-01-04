@@ -66,3 +66,6 @@ If you have a job for me, or want to collaborate in one of my projects, you can 
 
 **P.S.**: I also manage a team that features frontend developers, designers and system administrators so feel free to propose your project!
 
+# My GitHub stats because that's kinda cool
+
+![Nocturn9x's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nocturn9x)
