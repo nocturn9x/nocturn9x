@@ -44,13 +44,13 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 # Projects I'm currently working on
 
-- [Intellivoid Technologies](https://intellivoid.net) (Software Dev)
 - [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author)
 - [giambio](https:github.com/nocturn9x/giambio) (Author)
 - [JAPL](https://github.com/japl-lang/japl)
 
 # Projects I've worked for
 
+- [Intellivoid Technologies](https://intellivoid.net) (Software Dev)
 - [MasterPoll](https://telegram.me/MasterPoll) (Database Admin)
 - FiveShots (A VPS/Webhosting provider, now out of business)
 
