@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm Mattia Giambirtone, Matt for short, if you're reading this you may want to know more about me.
+Hi! I'm Mattia Giambirtone, or Matt for short. If you're reading this, you may want to know more about me.
 
 I'm an italian 18 years old backend developer and I'm passionate about programming, cryptography and cyber security.
 
@@ -15,8 +15,6 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 ## IDEs
 
 - PyCharm Professional
-- CLion
-- ItelliJ IDEA Ultimate
 - Visual Studio Code
 
 ## Operating Systems
@@ -44,12 +42,12 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 # Projects I'm currently working on
 
-- [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author)
 - [giambio](https:github.com/nocturn9x/giambio) (Author)
 - [JAPL](https://github.com/japl-lang/japl)
+- [NimKalc](https://github.com/nocturn9x/nimkalc)
 
-# Projects I've worked for
-
+# Projects I've worked for/on
+- [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author)
 - [Intellivoid Technologies](https://intellivoid.net) (Software Dev)
 - [MasterPoll](https://telegram.me/MasterPoll) (Database Admin)
 - FiveShots (A VPS/Webhosting provider, now out of business)
@@ -58,13 +56,13 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 If you have a job for me, or want to collaborate in one of my projects, you can contact me the following ways:
 
-- [Telegram (me)](https://t.me/nocturn9x) or [My Bot (better)](https://telegram.me/GiambyBot)
-- [Instagram](https://instagram.com/_mattiagiamby_)
+- [Telegram (me)](https://t.me/nocturn9x)
+- [Instagram](https://instagram.com/nocturn9x)
 - [GitHub](https://github.com/nocturn9x)
-- [E-mail](mailto:nocturn9x@intellivoid.net)
+- [E-mail](mailto:hackhab@gmail.com)
 
 
-**P.S.**: I also manage a team that features frontend developers, designers and system administrators so feel free to propose your project!
+**P.S.**: I also manage a team that features frontend developers, designers and system administrators, so feel free to propose your project!
 
 # My GitHub stats because that's kinda cool
 
