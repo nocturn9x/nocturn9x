@@ -9,24 +9,25 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 ## Programming Languages
 
-- Python 3 (6 years experience)
-- Nim (Learning)
+![langlogo](https://user-images.githubusercontent.com/23456189/110928495-39b41b00-8327-11eb-97ec-ed253c09980c.png)
+![langlogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/nim.svg)
+
 
 ## IDEs
 
-- PyCharm Professional
-- Visual Studio Code
+![idelogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/pycharm.png)
+![idelogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/vscode.png)
 
 ## Operating Systems
 
-- Debian/Raspbian 9/10
-- Manjaro
-- Mac OS X >= 10.10
+![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/debian_logo.png)
+![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/raspbian.png)
+![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/manjaro.png)
 
 ## Desktop Environments
 
-- XFCE 4
-- KDE Plasma
+![delogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/xfce.png)
+![delogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/kde.png)
 
 # My skills
 
@@ -43,8 +44,8 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 # Projects I'm currently working on
 
 - [giambio](https:github.com/nocturn9x/giambio) (Author)
-- [JAPL](https://github.com/japl-lang/japl)
-- [NimKalc](https://github.com/nocturn9x/nimkalc)
+- [JAPL](https://github.com/japl-lang/japl) (Author)
+- [NimKalc](https://github.com/nocturn9x/nimkalc) (Author)
 
 # Projects I've worked for/on
 - [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author)
