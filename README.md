@@ -43,7 +43,7 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 # Projects I'm currently working on
 
-- [giambio](https:github.com/nocturn9x/giambio) (Author)
+- [giambio](https://github.com/nocturn9x/giambio) (Author)
 - [JAPL](https://github.com/japl-lang/japl) (Author)
 - [NimKalc](https://github.com/nocturn9x/nimkalc) (Author)
 
