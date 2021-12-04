@@ -46,9 +46,11 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 - [giambio](https://github.com/nocturn9x/giambio) (Author)
 - [JAPL](https://github.com/japl-lang/japl) (Author)
 - [NimKalc](https://github.com/nocturn9x/nimkalc) (Author)
+- [NimD](https://github.com/nocturn9x/nimd)
+
 
 # Projects I've worked for/on
-- [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author)
+- [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author, now discontinued)
 - [Intellivoid Technologies](https://intellivoid.net) (Software Dev)
 - [MasterPoll](https://telegram.me/MasterPoll) (Database Admin)
 - FiveShots (A VPS/Webhosting provider, now out of business)
@@ -61,6 +63,7 @@ If you have a job for me, or want to collaborate in one of my projects, you can 
 - [Instagram](https://instagram.com/nocturn9x)
 - [GitHub](https://github.com/nocturn9x)
 - [E-mail](mailto:hackhab@gmail.com)
+- [Website](https://nocturn9x.space)
 
 
 **P.S.**: I also manage a team that features frontend developers, designers and system administrators, so feel free to propose your project!
