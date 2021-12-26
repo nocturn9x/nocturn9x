@@ -47,6 +47,7 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 - [JAPL](https://github.com/japl-lang/japl) (Author)
 - [NimKalc](https://github.com/nocturn9x/nimkalc) (Author)
 - [NimD](https://github.com/nocturn9x/nimd)
+- [asyncevents](https://github.com/nocturn9x/asyncevents)
 
 
 # Projects I've worked for/on
