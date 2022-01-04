@@ -36,8 +36,12 @@ I'm an italian 19 years old backend developer and I'm passionate about programmi
 
 If you have a job for me, or want to collaborate in one of my projects, you can contact me the following ways:
 
-- [Telegram (me)](https://t.me/nocturn9x)
+- [Telegram](https://t.me/nocturn9x)
 - [Instagram](https://instagram.com/nocturn9x)
+- [Twitter](https://twitter.com/nocturn9x)
+- [Reddit #1](https://reddit.com/u/nocturn9x)
+- [Reddit #2](https://reddit.com/u/nocturn99x)
+- [GitLab](https://gitlab.com/nocturn0x09) (note: [This account](https://gitlab.com/nocturn9x) is no longer under my control)
 - [GitHub](https://github.com/nocturn9x)
 - [E-mail](mailto:hackhab@gmail.com)
 - [Website](https://nocturn9x.space)
