@@ -2,32 +2,8 @@
 
 Hi! I'm Mattia Giambirtone, or Matt for short. If you're reading this, you may want to know more about me.
 
-I'm an italian 18 years old backend developer and I'm passionate about programming, cryptography and cyber security.
+I'm an italian 19 years old backend developer and I'm passionate about programming, cryptography and cyber security.
 
-
-# Things I love
-
-## Programming Languages
-
-![langlogo](https://user-images.githubusercontent.com/23456189/110928495-39b41b00-8327-11eb-97ec-ed253c09980c.png)
-![langlogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/nim.svg)
-
-
-## IDEs
-
-![idelogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/pycharm.png)
-![idelogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/vscode.png)
-
-## Operating Systems
-
-![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/debian_logo.png)
-![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/raspbian.png)
-![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/manjaro.png)
-
-## Desktop Environments
-
-![delogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/xfce.png)
-![delogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/kde.png)
 
 # My skills
 
@@ -44,7 +20,7 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 # Projects I'm currently working on
 
 - [giambio](https://github.com/nocturn9x/giambio) (Author)
-- [JAPL](https://github.com/japl-lang/japl) (Author)
+- [JAPL](https://github.com/japl-lang) (Author)
 - [NimKalc](https://github.com/nocturn9x/nimkalc) (Author)
 - [NimD](https://github.com/nocturn9x/nimd)
 - [asyncevents](https://github.com/nocturn9x/asyncevents)
@@ -54,7 +30,7 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 - [AsyncAPY (for Intellivoid)](https://asyncapy.readthedocs.io) (Author, now discontinued)
 - [Intellivoid Technologies](https://intellivoid.net) (Software Dev)
 - [MasterPoll](https://telegram.me/MasterPoll) (Database Admin)
-- FiveShots (A VPS/Webhosting provider, now out of business)
+- [FiveShots](https://fiveshots.tech) (A VPS/Webhosting provider, now out of business)
 
 # Contacts
 
