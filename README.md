@@ -9,12 +9,13 @@ I'm an italian 19 years old backend developer and I'm passionate about programmi
 
 - Continuos Integration (TravisCI)
 - Standard-compliant Python code (PEP8 & Black code style)
+- Decent Nim and C knowledge
 - Decent knowledge about cryptography, programming languages and data structures
 - Telegram Bot Development
-- Network programming (HTTP/TCP)
+- Network programming
 - Asynchronous, multithreaded and multiprocessing programming models
 - Task automation, browser interaction and system scripting
-- Deep backend development
+- Backend development
 - Moderate hardware knowledge
 
 # Projects I'm currently working on
